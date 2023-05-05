@@ -9,7 +9,7 @@ Install dependencies:
 
 > npm install express
 
-For web version look at web branch of this repo
+
 
 Usage : 
 
